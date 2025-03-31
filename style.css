@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: rgb(9, 9, 133);
+}
+
+div{
+    height: 100px;
+    width: 500px;
+    background-color: yellow;
+    border: 1px solid black;
+    margin: auto;
+}
+
+ul{
+    background-color: orange;
+}
+li{
+    background-color: rgb(157, 214, 214);
+}
